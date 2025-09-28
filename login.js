@@ -82,7 +82,7 @@ getRedirectResult(auth)
             });
           }
           // Redireciona sempre para sucesso.html
-          window.location.href = "postsVendedores.html";
+          window.location.href = "/postsVendedores.html";
         })
         .catch((error) => console.error('Erro DB:', error));
     }
