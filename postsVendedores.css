@@ -94,9 +94,9 @@ header{
   font-weight: 900;
 }
 #btnAdicionarPost{
-  top: 80vh;
+  top: 40vh;
   position: fixed;
-  right: 1rem;
+  right: 1.5rem;
 }
 #menu{
   top: 60vh;
