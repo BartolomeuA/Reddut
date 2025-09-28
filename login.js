@@ -45,7 +45,7 @@ btnLogin.addEventListener('click', () => {
   signInWithEmailAndPassword(auth, email, senha)
     .then((userCredential) => {
       const user = userCredential.user;
-      window.location.href = "sucesso.html";
+      window.location.href = "postsVendedores.html";
     })
     .catch((error) => alert(error.message));
 });
