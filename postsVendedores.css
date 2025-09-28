@@ -94,12 +94,12 @@ header{
   font-weight: 900;
 }
 #btnAdicionarPost{
-  top: 40vh;
+  top: 60vh;
   position: fixed;
   right: 1.5rem;
 }
 #menu{
-  top: 60vh;
+  top: 80vh;
   position: fixed;
   left: 0rem;
   padding: 24px;
